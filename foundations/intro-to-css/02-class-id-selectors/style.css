@@ -15,7 +15,13 @@
 .bg_pink.bigger {                
 
     font-size: 24px;
+
+}
+
+#bg_green {
+
+    background-color: rgb(115, 254, 115);
+    font-size: 24px;
     font-weight: bold;
-    
 }
 
